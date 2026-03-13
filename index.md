@@ -3,14 +3,13 @@ layout: default
 title: Gabriel Sandoval
 ---
 
-# Gabriel Sandoval
-**Data Scientist**
+# Data Scientist
 
 I am a graduating senior at UC Berkeley studying Data Science, with interests in data analysis, machine learning, and artificial intelligence. I am currently seeking opportunities that are open to contract work.
 
 ## Education
-**University of California, Berkeley**
-B.A. in Data Science: Science, Technology, and Society
+**University of California, Berkeley**<br>
+B.A. in Data Science: Science, Technology, and Society<br>
 Expected Graduation: May 2026
 
 ## Technical Skills 
