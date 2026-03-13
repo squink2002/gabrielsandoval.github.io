@@ -4,6 +4,7 @@ title: Gabriel Sandoval
 ---
 
 # Data Scientist
+I am a graduating senior at UC Berkeley studying Data Science, with interests in data analysis, machine learning, and artificial intelligence. I am currently seeking opportunities that are open to contract work.
 
 ## Education
 **University of California, Berkeley**<br>
@@ -34,7 +35,7 @@ Expected Graduation: May 2026
 **Founder & Designer | Graphic Stitch Wear (Spring 2026)**
 - Launched and managed an independent print-on-demand apparel business end-to-end, self-teaching Figma to design original graphics and develop production-ready assets.
 - Researched market positioning, executed branding and marketing strategy to launch an NVP, and resolved operational and platform issues to manage the business lifecycle.<br>
-[Instagram Page:](https://www.instagram.com/graphic_stitch_wear/)
+[Visit Instagram Page](https://www.instagram.com/graphic_stitch_wear/)
 
 **Multiplayer Checkers Online Game (Spring 2026)**
 - Built a web-based multiplayer checkers game with an AI opponent, local multiplayer, and real-time online play using Firebase for backend state management and synchronization.
@@ -49,7 +50,7 @@ Expected Graduation: May 2026
 - Conducted text preprocessing (tokenization, stop-word removal, vectorization), trained multiple classifiers, and evaluated model performance using standard NLP metrics (precision, recall, f1-score, confusion matrix).
 
 ## Contact
-- **Email:** sandovalgabriel@berkeley.edu
+- **Email:** [sandovalgabriel@berkeley.edu](mailto: sandovalgabriel@berkeley.edu)
 - **LinkedIn:** [linkedin.com/in/sandoval-gabriel/](https://www.linkedin.com/in/sandoval-gabriel/)
 - **GitHub:** [github.com/squink2002](https://github.com/squink2002)
 - **Resume:** [View Resume](https://docs.google.com/document/d/13CjhwNekn39jxfBvR_80b7jll5VJpJfypmH-_7_amRk/edit?usp=sharing)
