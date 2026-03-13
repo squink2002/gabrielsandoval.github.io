@@ -3,16 +3,15 @@ layout: default
 title: Gabriel Sandoval
 ---
 
-# Data Scientist
+# Gabriel Sandoval
+**Data Scientist**
 
-## About Me:
-I am interested in data analysis, machine learning, and artificial intelligence. I am currently looking for work opportunities in these areas that are open to contract work.
+I am a graduating senior at UC Berkeley studying Data Science, with interests in data analysis, machine learning, and artificial intelligence. I am currently seeking opportunities that are open to contract work.
 
-## 
-
-#### Technical Skills: Python, Pandas, SQL, Numpy, Sklearn, Matplotlib, Plotly, Version Control (Git)
-
-#### Relevant Coursework: Data, Inference, and Decisions | Probability for Data Science
+## Technical Skills 
+- **Languages & Tools:** Python, SQL, Git
+- **Libraries:** Pandas, Numpy, scikit-learn, Matplotlib, Plotly
+- **Relevant Coursework:** Data, Inference, and Decisions; Probability for Data Science; Data Engineering; Data Mining and Analytics; Human Contexts and Ethics of Data; Principles and Techniques of Data Science; Foundations of Data Science; Intro to Full-Stack Development (DeCal); Intro to Figma (DeCal); Data Structures
 
 ### Education
 - Data Science BA: Science, Technology, and Society | University of California, Berkeley (May 2026)
