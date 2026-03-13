@@ -1,0 +1,18 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Hide the sidebar/footer text under the photo */
+header p.view,
+header p + p,
+footer {
+  display: none;
+}
+
+/* Keep the profile image from blowing up */
+header img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
