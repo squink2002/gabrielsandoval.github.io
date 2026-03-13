@@ -8,15 +8,17 @@ title: Gabriel Sandoval
 
 I am a graduating senior at UC Berkeley studying Data Science, with interests in data analysis, machine learning, and artificial intelligence. I am currently seeking opportunities that are open to contract work.
 
+## Education
+**University of California, Berkeley**
+B.A. in Data Science: Science, Technology, and Society
+Expected Graduation: May 2026
+
 ## Technical Skills 
 - **Languages & Tools:** Python, SQL, Git
-- **Libraries:** Pandas, Numpy, scikit-learn, Matplotlib, Plotly
+- **Libraries:** Pandas, Statsmodel, PyMC, Bambi, Numpy, scikit-learn, Matplotlib, Plotly
 - **Relevant Coursework:** Data, Inference, and Decisions; Probability for Data Science; Data Engineering; Data Mining and Analytics; Human Contexts and Ethics of Data; Principles and Techniques of Data Science; Foundations of Data Science; Intro to Full-Stack Development (DeCal); Intro to Figma (DeCal); Data Structures
 
-### Education
-- Data Science BA: Science, Technology, and Society | University of California, Berkeley (May 2026)
-
-### Academic Projects:
+## Academic Projects:
 **Causal Analysis of Smoke-Free Policy on COPD (Fall 2025)**
 - Leveraged causal inference methods (outcome regression) to estimate the effect of state-level comprehensive smoke-free air policies on adult COPD prevalence using Python, Pandas, NumPy, Matplotlib, and Statsmodels.
 - Developed a causal DAG, performed outcome regressions to quantify statistical significance, and translated visual findings into written insights in a co-authored technical report integrating prior literature.
