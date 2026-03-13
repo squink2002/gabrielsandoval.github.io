@@ -51,12 +51,12 @@ Expected Graduation: May 2026
 - Conducted text preprocessing (tokenization, stop-word removal, vectorization), trained multiple classifiers, and evaluated model performance using standard NLP metrics (precision, recall, f1-score, confusion matrix).
 
 ## Personal Hobbies
-- Electric Unicycle Riding
-- Body Building
-- Learning About Emerging Artificial Intelligence Tech
+- ⚡🛞 Electric Unicycle Riding
+- 💪 Body Building
+- 🤖 Learning About Emerging Artificial Intelligence Tech
 
 
-## Contact
+## 📞 Contact
 - **Email:** [sandovalgabriel@berkeley.edu](mailto: sandovalgabriel@berkeley.edu)
 - **LinkedIn:** [linkedin.com/in/sandoval-gabriel/](https://www.linkedin.com/in/sandoval-gabriel/)
 - **GitHub:** [github.com/squink2002](https://github.com/squink2002)
