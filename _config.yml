@@ -3,5 +3,3 @@ logo: /assets/img/headshot.jpg
 description: My personal website
 # show_downloads: true
 theme: jekyll-theme-minimal
-styles:
-  - /assets/css/style.css
