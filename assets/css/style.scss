@@ -1,1 +1,11 @@
+---
+---
 
+@import "{{ site.theme }}";
+
+/* hide the sidebar footer text under the image */
+header p.view,
+header p + p,
+footer {
+  display: none;
+}
