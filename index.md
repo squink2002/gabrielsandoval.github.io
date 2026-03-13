@@ -1,5 +1,5 @@
 # Data Scientist
-I am a graduating senior at UC Berkeley studying Data Science, with interests in data analysis, machine learning, and artificial intelligence. I am currently seeking opportunities that are open to contract work.
+I am a first-gen graduating senior at UC Berkeley studying Data Science, with interests in data analysis, machine learning, and artificial intelligence. As a student with a non-traditonal background I have had to learn to be resilient and resourceful. I am currently seeking opportunities that are open to contract work, let's connect!
 
 ## Education
 **University of California, Berkeley**<br>
