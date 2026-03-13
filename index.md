@@ -7,8 +7,9 @@ B.A. in Data Science: Science, Technology, and Society<br>
 Expected Graduation: May 2026
 
 ## Technical Skills 
-- **Languages & Tools:** Python, SQL, Git
-- **Libraries:** Pandas, Statsmodel, PyMC, Bambi, Numpy, scikit-learn, Matplotlib, Plotly
+- **Languages & Tools:** Python, SQL, Regex, Git
+- **Libraries:** Pandas, Statsmodel, PyMC, Bambi, spaCy, Numpy, scikit-learn, Matplotlib, Plotly
+- Proficient in Spanish 
 
 ## Academic Projects:
 **Causal Analysis of Smoke-Free Policy on COPD (Fall 2025)**
@@ -36,6 +37,11 @@ Expected Graduation: May 2026
 - Built a web-based multiplayer checkers game with an AI opponent, local multiplayer, and real-time online play using Firebase for backend state management and synchronization.
 - Utilized AI-assisted development tools, LLMs, and prompt engineering techniques to iteratively prototype features, debug system behavior, and refine customizable ruleset logic, allowing for better user experience.
 
+**ELIZA-style Chatbot (Summer 2025)**
+- Built a Python-based ELIZA-style chatbot that generates therapist-style responses through regex intent matching and pronoun reflection, implementing 15+ conversational patterns to handle greetings, emotions, and questions.
+- Improved chatbot robustness to noisy user input by developing a preprocessing pipeline for spell-checking, contraction expansion, profanity filtering, and punctuation normalization before intent matching.
+- Enhanced response generation with NLP techniques by integrating spaCy-based verb conjugation and reflection rules to dynamically transform user statements into context-aware replies.
+
 **Song Genre Classification Pipeline (Summer 2024)**
 - Built and optimized machine learning models (logistic regression, random forest, neural nets) to classify songs by genre.
 - Completed end-to-end ML pipeline: data cleaning, feature engineering, training, evaluation, and hyperparameter tuning to improve accuracy.
@@ -43,6 +49,12 @@ Expected Graduation: May 2026
 **IMDB Binary Sentiment Analysis (Summer 2024)**
 - Implemented an NLP pipeline to conduct binary sentiment analysis on IMDb reviews.
 - Conducted text preprocessing (tokenization, stop-word removal, vectorization), trained multiple classifiers, and evaluated model performance using standard NLP metrics (precision, recall, f1-score, confusion matrix).
+
+## Personal Hobbies
+- Electric Unicycle Riding
+- Body Building
+- Learning About Emerging Artificial Intelligence Tech
+
 
 ## Contact
 - **Email:** [sandovalgabriel@berkeley.edu](mailto: sandovalgabriel@berkeley.edu)
