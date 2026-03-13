@@ -30,7 +30,7 @@ Expected Graduation: May 2026
 ## Technical and Entrepreneurial Experience
 **Founder & Designer | Graphic Stitch Wear (Spring 2026)**
 - Launched and managed an independent print-on-demand apparel business end-to-end, self-teaching Figma to design original graphics and develop production-ready assets.
-- Researched market positioning, executed branding and marketing strategy to launch an NVP, and resolved operational and platform issues to manage the business lifecycle.<br>
+- Researched market positioning, executed branding and marketing strategy to launch an MVP, and resolved operational and platform issues to manage the business lifecycle.<br>
 [Visit Instagram Page](https://www.instagram.com/graphic_stitch_wear/)
 
 **Multiplayer Checkers Online Game (Spring 2026)**
