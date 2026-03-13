@@ -17,7 +17,7 @@ Expected Graduation: May 2026
 - Coordinated team workflow by establishing a shared Notion workspace and structuring meetings with clear goals and agendas.
 
 **MongoDB vs. PostgreSQL: Benchmarking Efficiency and Usability (Fall 2024)**
--Led a 4-person team to benchmark MongoDB and PostgreSQL performance using carefully crafted PyMongo and SQL queries.
+- Led a 4-person team to benchmark MongoDB and PostgreSQL performance using carefully crafted PyMongo and SQL queries.
 - Designed ER diagrams and schemas, then profiled queries to assess runtime efficiency and indexing strategies.
 - Wrote a [technical report](https://docs.google.com/document/d/1P79oXdsaXj2tE2ST-mkNzhyQlZEitiIjwhiNvCutQHg/edit?usp=sharing) summarizing findings and trade-offs for technical and non-technical audiences.
 
